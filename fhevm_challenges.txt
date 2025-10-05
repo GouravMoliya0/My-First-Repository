@@ -1,0 +1,16 @@
+# Common Challenges Developers Face with Zama FHEVM
+
+1. **Performance Overhead**
+   - FHE computations are slower than normal EVM operations.
+
+2. **Complex Debugging**
+   - Since data is encrypted, traditional debugging tools can’t read values.
+
+3. **Limited Tooling**
+   - Ecosystem is still growing; few frameworks fully support FHE yet.
+
+4. **Learning Curve**
+   - Understanding encryption concepts takes time for new developers.
+
+5. **Deployment Costs**
+   - Encrypted operations can require more gas on-chain.
