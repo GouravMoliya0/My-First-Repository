@@ -1,0 +1,16 @@
+# Advantages of Using Zama FHEVM
+
+1. **Privacy-Preserving Smart Contracts**
+   - Data stays encrypted even during execution.
+
+2. **Regulatory Compliance**
+   - Helps meet data protection standards like GDPR.
+
+3. **Secure Collaboration**
+   - Multiple parties can compute on shared encrypted data.
+
+4. **Easy Developer Integration**
+   - FHEVM runs just like a normal EVM but with encryption built in.
+
+5. **Open Source & Transparent**
+   - Available on GitHub for developers to explore and contribute.
