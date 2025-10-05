@@ -1,0 +1,18 @@
+# How to Start Building with Zama FHEVM
+
+1. **Clone the Repo**
+
+2. **Install Dependencies**
+- Follow the setup instructions in the README.
+
+3. **Explore Examples**
+- Review the demo contracts inside the examples folder.
+
+4. **Write Your First Encrypted Smart Contract**
+- Use the provided FHE libraries to handle encrypted inputs/outputs.
+
+5. **Test Locally**
+- Use Hardhat or Foundry to test smart contracts.
+
+6. **Join the Developer Community**
+- Connect on Discord for support and collaboration.
