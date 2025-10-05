@@ -1,0 +1,11 @@
+# Summary of Zama FHEVM Learning
+
+In this repository, I explored:
+- The basic idea of Fully Homomorphic Encryption (FHE)
+- Zama AI’s FHEVM architecture
+- Real-world use cases and benefits
+- Developer onboarding process via Guild
+- Technical setup and common challenges
+- Future potential of privacy-preserving smart contracts
+
+This repo summarizes my understanding and serves as proof of learning for the Zama AI Developer Program.
