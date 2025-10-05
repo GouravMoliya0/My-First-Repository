@@ -1,0 +1,8 @@
+# Zama AI FHEVM Notes
+
+- FHEVM allows executing smart contracts on encrypted data.
+- No need to decrypt sensitive data during computation.
+- Useful for privacy-preserving apps and secure data sharing.
+- Repository link: https://github.com/zama-ai/fhevm
+- Developer Program: Connect via Guild, star repo, verify email
+- Goal: Build a demo project using FHEVM within the developer program
