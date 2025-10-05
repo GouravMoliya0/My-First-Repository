@@ -1,0 +1,10 @@
+# Steps to Get Started with Zama FHEVM
+
+1. Connect GitHub account via Guild
+2. Star the zama-ai/fhevm repository
+3. Verify email address
+4. Make at least 10 commits on GitHub
+5. Join Discord and get "Developer Program - Access" role
+6. Submit your FHEVM project via Guild
+
+This file helps track progress for Zama AI Developer Program.
