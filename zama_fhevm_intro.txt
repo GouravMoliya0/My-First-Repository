@@ -1,0 +1,10 @@
+# Zama AI FHEVM Introduction
+
+Zama AI's FHEVM allows developers to run smart contracts on fully encrypted data.
+This ensures privacy while performing computations securely.
+
+Key points:
+- Fully Homomorphic Encryption (FHE) on EVM
+- No data decryption needed
+- Ideal for privacy-focused dApps
+- GitHub repo: https://github.com/zama-ai/fhevm
