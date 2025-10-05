@@ -1,0 +1,10 @@
+# Understanding Fully Homomorphic Encryption (FHE)
+
+- FHE is a cryptographic method that allows computations on encrypted data without decrypting it.
+- It preserves privacy while still enabling useful operations.
+- Zama AI brings FHE to the Ethereum ecosystem through FHEVM (Fully Homomorphic Encryption Virtual Machine).
+
+Example idea:
+Encrypted inputs → Smart Contract executes → Encrypted outputs
+
+This means even blockchain nodes cannot see the actual data.
